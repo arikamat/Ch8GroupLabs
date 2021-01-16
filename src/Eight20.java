@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class p8_20 {
+public class Eight20 {
 
     public static void main(String[] args) {
         char[][] board = new char[7][6];
